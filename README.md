@@ -7,17 +7,13 @@ Soy un apasionado por crear soluciones digitales que no solo funcionen, sino que
 
 ## 💼 Experiencia Profesional
 
-### 🏫 Rediseño del Sitio Web Institucional (Universidad del Istmo)
-* **Rol:** UX/UI Designer & Front-end Developer.
-* **Descripción:** Modernización integral de la interfaz y experiencia de usuario para el portal web de la universidad. Proyecto actualmente en fase de desarrollo e implementación tras su aprobación inicial.
-* 
 **Líder de Equipo Front-End & Marketing | Dxi Code** *(Agosto 2025 - Actualidad)*
 * Diseño y desarrollo de interfaces modernas utilizando **Vue.js, Astro, Tailwind CSS y TypeScript**.
 * Diseño e implementación de sitios web y E-commerce con WordPress.
 * Liderazgo en estrategias de marketing y presencia digital del equipo.
 
 **Desarrollador Front-End | Dxi Code** *(Noviembre 2024 - Febrero 2025)*
-* Diseño de prototipos en **Figma** y desarrollo de la interfaz web para un sistema de pastelería aplicando principios de diseño responsivo (HTML5, CSS3, JavaScript).
+* Diseño de prototipos en **Figma** y desarrollo de interfaces web aplicando principios de diseño responsivo (HTML5, CSS3, JavaScript).
 * Coordinación con el equipo de backend para la integración de datos mediante consumo de APIs.
 * Uso activo de Git y GitHub para control de versiones y trabajo colaborativo.
 
@@ -47,12 +43,16 @@ Soy un apasionado por crear soluciones digitales que no solo funcionen, sino que
 * **Rol:** Diseñador de interfaces UX/UI & programador en área de Front-end.
 * **Descripción:** Un SaaS integral para la gestión de citas, ventas e inventario, validado con usuarios reales para garantizar una experiencia fluida.
 
-### 🍰 Sistema Web de Pastelería Hecho en Casa (Dxi Code)
+### 🍰 [Sistema Web de Pastelería Hecho en Casa](https://drive.google.com/file/d/1MAEw9CQmHYx_CuG5l__pcm-SqG24Jjff/view?usp=sharing) (Dxi Code)
 * **Descripción:** Desarrollo de interfaz y consumo de APIs para la gestión eficiente en toma de pedidos de un negocio de pastelería en la región del Istmo de Tehuantepec.
+
+### 🏫 [Rediseño del Sitio Web Institucional](https://unistmo-landing.pages.dev/) (Universidad del Istmo)
+* **Rol:** UX/UI Designer & Front-end Developer.
+* **Descripción:** Modernización integral de la interfaz y experiencia de usuario para el portal web de la universidad. Proyecto actualmente en fase de desarrollo e implementación tras su aprobación inicial.
 
 ---
 
 ## 📫 ¡Conectemos!
-* **LinkedIn:** [Jeremy Osorio Ramos](https://www.linkedin.com/in/jeremy-osorio-b46b17352?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **LinkedIn:** [Jeremy Osorio Ramos](https://www.linkedin.com/in/jeremy-osorio-b46b17352)
 
-* **¡Gracias por tu visita!** 
+* **¡Gracias por tu visita!**
